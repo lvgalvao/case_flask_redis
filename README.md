@@ -2,7 +2,7 @@
 
 This is a simple API for managing tasks in a Redis database. It uses the Redis-OM library to manage data in a HashModel. 
 
-## Endpoints
+## Endpoints 
 
 * `POST /task`: Create a new task. Expects a JSON body containing the name and description of the task.
 
