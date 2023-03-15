@@ -1,4 +1,4 @@
-# Task Manager API 
+# Task Manager API  
 
 This is a simple API for managing tasks in a Redis database. It uses the Redis-OM library to manage data in a HashModel. 
 
